@@ -1,4 +1,4 @@
-# Programacion III - Escrito
+# Programacion I - Primer Parcial
 
 ## Propuesta
 Crear una aplicacion Web, utilizando PHP, que permita realizar las operaciones de Alta, Baja, Modificacion y Listado de 3 tablas (las mismas se encuentran en un archivo SQL en este repositorio).
