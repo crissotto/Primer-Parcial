@@ -3,6 +3,8 @@
 ## Propuesta
 Crear una aplicacion Web, utilizando PHP, que permita realizar las operaciones de Alta, Baja, Modificacion y Listado de 3 tablas (las mismas se encuentran en un archivo SQL en este repositorio).
 
+Al momento de insertar un registro en la tabla "Compra" se debe restar una unidad al stock de la tabla producto. Ademas, al momento de listar el contenido de la tabla "Compra" se debe listar tanto los datos de la persona que lo compro, como los datos del producto comprado.
+
 ## Conceptos a utilizar
 Se deben utilizar todos los conceptos en clase, pero se hara enfasis en el uso de Git y Github, y de Clean Code.
 
