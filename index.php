@@ -1,9 +1,3 @@
-<?php
-    include "conexion.php";
-
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,14 +7,16 @@
     <title>Parcial I</title>
 </head>
 <body>
-    <h1>Parcial I - Stock </h1>
-        <button><a href="insertar.php">Insertar Personas y Productos</a></button>
+    <h1>Parcial I - PHP - Compras - Stock</h1>
 
-        <?php include "buscar.php";?>
-        <?php include "compra.php";?>
+    <h1>Bienvenido al menu</h1>
+    <a href="registrarPersona.php">Registrar Persona</a>
+    <br><br>
+    <a href="registrarProducto.php">Registrar Producto</a>
+    <br><br>
+    <a href="registrarCompra.php">Registrar Compra</a>
+    <br><br>
+
     
-
 </body>
-
-
 </html>
